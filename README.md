@@ -1,30 +1,27 @@
-## Welcome to the Storewise Tech Screening Challenge
+## Welcome to the Storewise Tech Screening Challenge Answer
 
 ### Setup Instructions
 - Clone this repository
 - Open the `index.html` file in your browser (eg: Google Chrome)
 
 
-### Challenge Instructions
+### Screenshots
 
-When we open the `index.html` file in the browser, we see two buttons and a list of some numbers.
-Currently the buttons don't do anything but we would want them to perform the action mentioned on them.
+### Initial Number Order
+![js_01](https://github.com/user-attachments/assets/9a934d63-47ad-489c-bcfc-cd0b584ceebc)
+*Description:* Showing the initial schreen after running the html file
 
-So, clicking on the `Sort` button should sort those numbers on the list 
-and clicking on the `Filter Odd Numbers` should only show the odd numbers from that list
+### Sorted numbers Order
+![js_02](https://github.com/user-attachments/assets/a6ce0ba8-e14c-4a1c-b293-836aa6f49b85)
+*Description:* image after clicking the sort button
 
-That's all folks.
+### Filter Odd numbers Order
+![js_03](https://github.com/user-attachments/assets/108b95c1-b0f0-45b4-a6a2-fbc6411d7fd8)
+*Description:* image after clicking the filter odd numbers button
 
-### Submitting your challenge
+## Acknowledgments
 
-There are multiple ways that you can submit the challenge.
-1. send us the updated `index.html` file
-2. send us a zipped version of the directory
-3. Fork the repo and send us a link after you have made your changes
-
+- Thank you for the opportunity to work on this assignment.
 
 
-### How we score
 
-- 50 points for the correct working of the `Sort` button
-- 50 points for the correct working of the `Filter` button

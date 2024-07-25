@@ -8,15 +8,15 @@
 ### Screenshots
 
 ### Initial Number Order
-![js_01](https://github.com/user-attachments/assets/9a934d63-47ad-489c-bcfc-cd0b584ceebc)
+![js_01](https://github.com/user-attachments/assets/220c9e73-ef8d-4dee-adb1-a8253e8c628a)
 *Description:* Showing the initial schreen after running the html file
 
 ### Sorted numbers Order
-![js_02](https://github.com/user-attachments/assets/a6ce0ba8-e14c-4a1c-b293-836aa6f49b85)
+![js_02](https://github.com/user-attachments/assets/1abbd148-5320-471d-a618-7cd1bf5ee5da)
 *Description:* image after clicking the sort button
 
 ### Filter Odd numbers Order
-![js_03](https://github.com/user-attachments/assets/108b95c1-b0f0-45b4-a6a2-fbc6411d7fd8)
+![js_03](https://github.com/user-attachments/assets/1e9cc2bb-13f7-496d-8e63-89aed373be13)
 *Description:* image after clicking the filter odd numbers button
 
 ## Acknowledgments
